@@ -144,7 +144,7 @@ Tests include:
 .
 ├── src/
 │   ├── main/java/org/shnitko/        # Main source code
-│   ├── resources/data                # JSON input files
+│   ├── main/resources/data           # JSON input files
 │   ├── test/java                     # JUnit 5 tests
 │   └── test/resources/               # Sample JSON files
 ├── pom.xml                           # Maven project file
